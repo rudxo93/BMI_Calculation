@@ -9,6 +9,6 @@
     <string name="main_confirm_btn">확인하기</string>
     <!-- result -->
     <string name="result_title">BMI 계산기</string>
-    <string name="result_bmi">BMI : </string>
+    <string name="result_bmi_title">BMI : </string>
     <string name="resutl_bmi_content">결과는 : </string>
 </resources>
