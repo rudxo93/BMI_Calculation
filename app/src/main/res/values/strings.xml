@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">BMI_Calculation</string>
+    <!-- main -->
+    <string name="main_title">BMI 계산기</string>
+    <string name="main_height">신장</string>
+    <string name="main_height_hint">신장을 입력해주세요</string>
+    <string name="main_weight">체중</string>
+    <string name="main_weight_hint">체중을 입력해주세요</string>
+    <string name="main_confirm_btn">확인하기</string>
+    <!-- result -->
+    <string name="result_title">BMI 계산기</string>
+    <string name="result_bmi">BMI : </string>
+    <string name="resutl_bmi_content">결과는 : </string>
 </resources>
